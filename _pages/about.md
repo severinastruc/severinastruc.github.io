@@ -18,7 +18,7 @@ I earned my PhD within the [Department of Physics (DPHY)](https://www.onera.fr/e
 
 # Engineering School
 
-<img style="float: left; padding: 10px 10px 10px 10px;" title="Virtual screening of AI-predicted 2D materials" src="images/Bio/DIFFER_internship.png">
+<img style="float: left; padding: 10px 10px 10px 10px; width: 30%;" title="Virtual screening of AI-predicted 2D materials" src="images/Bio/DIFFER_internship.png">
 
 I hold a Master of Engineering in Applied Physics from [Télécom Physique Strasbourg](https://www.telecom-physique.fr/en/school/about-us/), France. I specialized in applied physics, sensors, and electronics. It included hands-on projects such as designing an experimental rocket, designing a solar-powered drifting buoy, using webcam to measure the energy of radiative particles, and manufacturing OLED cells. I interned at the [Dutch Institute for Fundamental Energy Research (DIFFER)](https://www.differ.nl/), where I used Machine Learning to create a database of novel 2D materials.
 
@@ -27,11 +27,9 @@ I completed my final year at the [National Institute for Nuclear Science and Tec
 
 
 
-# My skills
-ML
-Hardware sensor
-Rocket
+# Interests
 
 
-# Interest and personal touch
-Protection Civile
+I had the opportunity to be an EMT volunteer at the Protection Civile of Paris for 3 years. I staffed first aid stations, immediately treating those in need, and actively responded to situations of disaster. Sharing a shift with the SAMU and the Paris Fire Brigade during emergency responses was unforgetable experiences that I shared alongside incredibly people. One of the most exciting experiences of my volunteer life was being part of the team for the Paris 2024 Olympic Games, where I had the privilege of offering emergency medical care during such a world-famous event.
+
+<img style="padding: 10px 10px 10px 10px;" title="Myself during a protection civile event" src="images/Bio/protection_civile.jpg">
